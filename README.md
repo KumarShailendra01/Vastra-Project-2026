@@ -1,2 +1,3 @@
 # Vastra-Project-2026
-It is Integrated Full-Stack Project one full-stack application that combines System Design, RDBMS, DP-900 and Cloud Security
+It is Integrated Full-Stack Project one full-stack application that combines System Design, RDBMS, DP-900 and Cloud Security.
+Vastra aims to simplify online clothing shopping by bringing products from multiple retailers into one platform, allowing users to search, compare prices and product details, and make informed buying decisions. Its key purpose is to save users time, help them find suitable clothing within their budget, and provide personalised outfit suggestions. It also displays genuine customer reviews whenever they are available from supported sources, without inventing or displaying unavailable reviews.
